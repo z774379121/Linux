@@ -8,6 +8,7 @@
 6. Key promoter X 帮助熟悉快捷键
 7. Rainbow Brackets 彩虹括号
 8. Translation 内部翻译
+9. relative line number 配置ideavim快速行号跳转
 ## language
 1. go modules proxy https://goproxy.io和https://mirrors.aliyun.com/goproxy/
 2. KeyMap ALT+J=Down ALT+K=UP CTRL+ALT+SHIFT+= ==> if try 包裹
